@@ -1,6 +1,6 @@
 ## <a name="visit-page">🌟 Visit the page</a>
 
-🔴https://page-summarizer-ia.netlify.app/
+🔴 https://page-summarizer-ia.netlify.app/
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
